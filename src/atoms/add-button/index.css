@@ -1,0 +1,31 @@
+.product-btn,
+.product-btn-count {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 12px;
+  width: 100px;
+  border: 0;
+  border-radius: 20px;
+  color: #fff;
+  background-color: #0047ab;
+  font-weight: bold;
+  margin-left: auto;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.product-btn-count {
+  padding: 0;
+}
+
+.counter {
+  min-width: 12px;
+  max-width: 12px;
+  text-align: center;
+}
+
+.incCount {
+  padding: 12px 20px;
+}
